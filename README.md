@@ -148,7 +148,7 @@
 <button>DOM:
 
 
-    <small>Donativo; dádiva; benefício. 2. Prenda, talento, dote natural.</small>
+    Donativo; dádiva; benefício. 2. Prenda, talento, dote natural.
 </button>
 
 </BR>
