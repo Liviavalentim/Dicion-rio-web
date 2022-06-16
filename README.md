@@ -211,7 +211,7 @@
 <div>
     <br>
 
-    <button>XML:
+    XML:
 
         significa “eXtensible Markup Language” em inglês, que é basicamente um formato de arquivo universal usado para criar documentos com dados organizados.
 
