@@ -1,0 +1,88 @@
+body{
+
+
+
+
+background-color:blueviolet;
+
+
+}
+
+header{
+display: flex;
+align-items: center;
+justify-content: space-between;
+background-color: violet;
+padding: 1cm;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+
+
+
+
+
+
+}
+
+form{
+border: 1px solid whitesmoke;
+border-radius: 0.3cm;
+padding: 0.3cm;
+
+
+}
+
+form input,form button{
+font-size: 0.8cm;
+border-radius: 0.2cm;
+border: none;
+padding: 0.2cm;
+
+
+}
+form button{
+cursor: pointer;
+background: none;
+color: whitesmoke;
+
+
+
+
+
+
+}
+
+form button:hover{
+background-color: whitesmoke;
+color: blueviolet;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+button{
+
+color: black;
+
+}
+
+small{
+
+
+}
+
+
+
+
+
+
