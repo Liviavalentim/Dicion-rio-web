@@ -202,12 +202,11 @@
     <br>
 <button>ES:
 
-    <small>Sigla do estado brasileiro do Espírito santos</small>
+    Sigla do estado brasileiro do Espírito santos
     
     
-    </button>
-</BR>
-</div>
+    
+
 
 <div>
     <br>
