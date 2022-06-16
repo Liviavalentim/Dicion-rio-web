@@ -213,15 +213,10 @@
 
     <button>XML:
 
-        <small>significa “eXtensible Markup Language” em inglês, que é basicamente um formato de arquivo universal usado para criar documentos com dados organizados.</small>
+        significa “eXtensible Markup Language” em inglês, que é basicamente um formato de arquivo universal usado para criar documentos com dados organizados.
 
 
-    </button>
-</BR>
-</div>
     
-<div>
-    <br>
 <button>AJAX:
 
 <small> Asynchronous JavaScript and XML, ou JavaScript e XML Assíncronos, em bom português. Ele é um conjunto de técnicas de desenvolvimento voltado para a web que permite que aplicações trabalhem de modo assíncrono, processando qualquer requisição ao servidor em segundo plano</small>
