@@ -1,11 +1,8 @@
 
 <!DOCTYPE html>
 <html>
-<header>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-    <script src="https://kit.fontawesome.com/1e592b5726.js"crossorigin="anonymous"></script>
-	<title>Dicionário</title>
+
+
 	
 <body>
 
