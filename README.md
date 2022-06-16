@@ -33,7 +33,7 @@
 
 <div>
 
-    <br>
+    
 <button>SEO:
     <small> Significado sigla de Search Engine Optimization (otimização de mecanismos de busca) e é o conjunto de técnicas usadas, geralmente divididas entre tecnologia, conteúdo e autoridade, para alcançar bom posicionamento de páginas de um site no Google e em outros buscadores, gerando tráfego orgânico</small>
 </button>
@@ -42,7 +42,7 @@
 
 <div>
 
-    <br>
+    
 <button> ClI:
 
 <small>Significa Interface de Linha de Comando (ILC). Geralmente, ela representa um programa funcionando através de linhas de comando, que aceita entrada de texto para executar funções do sistema operacional.</small>
